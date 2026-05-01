@@ -9,7 +9,7 @@ By converting rankings into a weighted point system, the dashboard highlights bo
 
 ## Dashboard Preview
 
-![AI Priority Dashboard](images/dashboard.png)
+![AI Priority Dashboard](/Dashboard.png)
 
 ---
 
